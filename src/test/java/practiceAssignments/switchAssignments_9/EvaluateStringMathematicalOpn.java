@@ -1,4 +1,4 @@
-package practiceAssignments.SwitchAssignments;
+package practiceAssignments.switchAssignments_9;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;

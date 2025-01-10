@@ -1,4 +1,4 @@
-package practiceAssignments.whileLoopAssignments;
+package practiceAssignments.whileLoopAssignments_4;
 
 public class FrequencyOfEachCharacter {
     public static void main(String[] args) {

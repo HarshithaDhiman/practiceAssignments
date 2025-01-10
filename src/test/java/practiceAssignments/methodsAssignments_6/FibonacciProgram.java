@@ -1,4 +1,4 @@
-package practiceAssignments.methodsAssignments;
+package practiceAssignments.methodsAssignments_6;
 
 import java.util.Scanner;
 

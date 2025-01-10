@@ -1,4 +1,4 @@
-package practiceAssignments.methodsAssignments;
+package practiceAssignments.methodsAssignments_6;
 
 public class VowelsCountProgram {
     static void vowelsCount(String str) {

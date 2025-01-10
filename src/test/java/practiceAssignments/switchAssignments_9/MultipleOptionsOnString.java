@@ -1,4 +1,4 @@
-package practiceAssignments.SwitchAssignments;
+package practiceAssignments.switchAssignments_9;
 
 import java.util.*;
 

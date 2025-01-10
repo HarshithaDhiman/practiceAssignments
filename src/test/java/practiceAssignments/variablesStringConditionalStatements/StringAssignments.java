@@ -9,7 +9,7 @@ public class StringAssignments {
         System.out.println("Character at index 10 is: "+str2.charAt(10));
 
         String str3 = "HelloWorld", str4 = str3.substring(5), str5 = "World";
-        System.out.println(STR."'\{str4}'");
+        //System.out.println(STR." '\{str4}'");
         System.out.println("Both the strings are equal: "+(str4==str5));
         System.out.println(str4.equals(str5));
 

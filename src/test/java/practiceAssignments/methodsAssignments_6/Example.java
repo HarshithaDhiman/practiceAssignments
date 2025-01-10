@@ -1,4 +1,4 @@
-package practiceAssignments.methodsAssignments;
+package practiceAssignments.methodsAssignments_6;
 
 public class Example {
     public static void main(String[] args) {

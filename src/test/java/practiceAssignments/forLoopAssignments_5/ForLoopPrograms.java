@@ -1,4 +1,4 @@
-package practiceAssignments.forLoopAssignments;
+package practiceAssignments.forLoopAssignments_5;
 
 public class ForLoopPrograms {
     public static void main(String[] args) {

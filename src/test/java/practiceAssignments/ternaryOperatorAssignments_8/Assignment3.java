@@ -1,4 +1,4 @@
-package practiceAssignments.ternaryOperatorAssignments;
+package practiceAssignments.ternaryOperatorAssignments_8;
 
 public class Assignment3 {
     public static void main(String[] args) {

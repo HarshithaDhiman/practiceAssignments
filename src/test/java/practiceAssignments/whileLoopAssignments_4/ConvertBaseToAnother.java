@@ -1,4 +1,4 @@
-package practiceAssignments.whileLoopAssignments;
+package practiceAssignments.whileLoopAssignments_4;
 
 import java.util.ArrayList;
 import java.util.Scanner;

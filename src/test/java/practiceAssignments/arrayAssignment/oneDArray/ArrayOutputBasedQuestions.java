@@ -1,4 +1,4 @@
-package practiceAssignments.arrayAssignments;
+package practiceAssignments.arrayAssignment.oneDArray;
 
 import java.util.Arrays;
 
@@ -32,7 +32,5 @@ public class ArrayOutputBasedQuestions {
             //prefixSum[3]=6+4=10
         }
         System.out.println(Arrays.toString(prefixSum));
-
-        
     }
 }

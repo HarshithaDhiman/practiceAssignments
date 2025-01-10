@@ -1,4 +1,4 @@
-package practiceAssignments.ternaryOperatorAssignments;
+package practiceAssignments.ternaryOperatorAssignments_8;
 
 public class GreatestOfThreeNumbers {
     public static void largestNumber(int a, int b, int c) {
